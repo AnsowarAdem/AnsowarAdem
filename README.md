@@ -11,7 +11,11 @@
 - 🔍 [**Vulnerability Management Lab**](https://github.com/AnsowarA/Nessus-Vulnerability-Management-Lab)
   - Nessus • Kali Linux • Metasploitable • Ubuntu Server
   - Scanned an intentionally vulnerable Ubuntu server, removed insecure services, patched, and rescanned to cut findings from 69 to 19.
-
+    
+- 🌐 [**Active Directory Lab**](https://github.com/AnsowarA/ActiveDirectoryLab)
+  - Windows Server • Active Directory • DNS • DHCP • PowerShell
+  - Practiced domain setup, organizational units, user creation, and Windows client connectivity.
+    
 <h2>⚙️ Home Lab & Infrastructure</h2>
 
 - 🖥️ [**Cybersecurity & Infrastructure Home Lab**](https://github.com/AnsowarA/Cybersecurity-Home-Lab)
